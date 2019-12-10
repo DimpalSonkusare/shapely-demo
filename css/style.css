@@ -149,7 +149,7 @@ p {
 }
 
 .small-box {
-    padding-top: 80px;
+    padding: 50px;
 }
 
 .color {
@@ -275,7 +275,7 @@ p {
 }
 
 .theme-container {
-    width: 65%;
+    width: 80%;
     margin: 45px auto;
     overflow: auto;
 }
