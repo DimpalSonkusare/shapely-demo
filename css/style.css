@@ -87,13 +87,15 @@ ul {
     overflow: auto;
     margin: 40px auto;
 }
-.submit{
-     width: 50%;
+
+.submit {
+    width: 50%;
     background-color: #745cf9;
     padding: 10px;
     margin: 20px auto;
     text-align: center;
 }
+
 .read-more {
     width: 50%;
     background-color: #745cf9;
@@ -134,13 +136,11 @@ p {
 }
 
 .image {
-    height: 100%;
     width: 60%;
     float: left;
 }
 
 .paragraph {
-    height: 100%;
     width: 40%;
     padding: 30px;
     float: left;
@@ -160,10 +160,12 @@ p {
     width: 25%;
     margin: 20px auto;
 }
-.lo-image-container{
+
+.lo-image-container {
     width: 80%;
     margin: 50px auto 0px auto;
 }
+
 .dl-image {
     width: 100%;
 }
@@ -273,20 +275,21 @@ p {
 }
 
 .theme-container {
-    width: 80%;
+    width: 65%;
     margin: 45px auto;
     overflow: auto;
 }
 
 .theme-content {
-    width: 60%;
+    width: 80%;
     margin: auto;
     float: left;
 }
 
 .button2 {
-    width: 15%;
+    width: 20%;
     overflow: auto;
+    padding: 0px 15px;
     margin: 25px auto;
 }
 
@@ -305,7 +308,7 @@ p {
 .last-block-container {
     width: 80%;
     padding: 50px 0px;
-    margin:  auto;
+    margin: auto;
     overflow: auto;
 }
 
