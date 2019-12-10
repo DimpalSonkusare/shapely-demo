@@ -87,12 +87,28 @@ ul {
     overflow: auto;
     margin: 40px auto;
 }
-
-.submit {
+.submit{
+     width: 50%;
+    background-color: #745cf9;
+    padding: 10px;
+    margin: 20px auto;
+    text-align: center;
+}
+.read-more {
     width: 50%;
+    background-color: #745cf9;
     padding: 10px;
     float: left;
-    margin: auto;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.read-more2 {
+    width: 40%;
+    background-color: #745cf9;
+    padding: 10px;
+    float: right;
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -103,6 +119,7 @@ ul {
 
 .div {
     color: white;
+    text-decoration: none;
 }
 
 p {
@@ -111,8 +128,9 @@ p {
 
 .container {
     width: 80%;
-    padding: 50px 0px;
-    margin: 150px auto;
+    padding: 10px 0px;
+    margin: 50px auto;
+    overflow: auto;
 }
 
 .image {
@@ -140,11 +158,12 @@ p {
 
 .button {
     width: 25%;
-    margin: 40px auto;
+    margin: 20px auto;
 }
 
 .dl-image {
-    margin: auto;
+    width: 80%;
+    margin: 20px auto;
 }
 
 .project-box {
@@ -224,11 +243,89 @@ p {
 }
 
 .client {
-    width: 22%;
+    width: 15%;
     margin: auto;
 }
 
 .logo-container {
     width: 80%;
-    margin: 20px auto;
+    margin: 50px auto;
+    overflow: auto;
+}
+
+.icon {
+    width: 25%;
+    margin: auto;
+    float: left;
+}
+
+.sass {
+    width: 25%;
+    margin: auto;
+}
+
+.wordpress-theme {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 15px 0px;
+}
+
+.theme-container {
+    width: 80%;
+    margin: 45px auto;
+    overflow: auto;
+}
+
+.theme-content {
+    width: 60%;
+    margin: auto;
+    float: left;
+}
+
+.button2 {
+    width: 15%;
+    overflow: auto;
+    margin: 25px auto;
+}
+
+.download {
+    background-color: #745cf9;
+    padding: 10px;
+    float: left;
+    margin: auto;
+}
+
+.powered-by {
+    width: 100%;
+    background-color: #0e1015;
+}
+
+.last-block-container {
+    width: 80%;
+    padding: 50px 0px;
+    margin:  auto;
+    overflow: auto;
+}
+
+.wordpress-content {
+    width: 70%;
+    margin: auto;
+    float: left;
+}
+
+.font-color {
+    color: white;
+}
+
+.social-media {
+    width: 20%;
+    float: right;
+    padding: 10px;
+    overflow: auto;
+    background-color: white;
+}
+
+.fb-icon {
+    width: 20%;
+    float: left;
 }
