@@ -283,16 +283,18 @@ p {
 }
 
 .theme-content {
-    width: 80%;
+    width: 60%;
     margin: auto;
     float: left;
+    text-align: center;
 }
 
 .button2 {
     width: 20%;
     overflow: auto;
-    padding: 0px 15px;
+    padding: 5px 35px;
     margin: 25px auto;
+    float: right;
 }
 
 .download {
